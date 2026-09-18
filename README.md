@@ -6,7 +6,7 @@ I build lean, high-utility tools for games and live streaming. I also like to do
 
 ### Craftsmanship & Architecture
 
-* **Rapid Prototyping Is Key:** If I can't get the first thing on screen, in a reasonable time-frame, the design is bloated. I build functional skeletons first, prove the feedback loop, and iterate under live constraints. 
+* **Rapid Prototyping Is Key:** If I can't get the first thing on screen, in a reasonable time-frame, the design is bloated. I build functional skeletons first, prove the feedback loop, and iterate under live constraints. _The Pragmatic Programmer_ calls this **Tracer Bullet** style.
 * **Fail Gracefully, Fail Invisibly:** Tools should not fail and completely crash, if there is an error, it should fail gracefully so your whole production doesn't go down. 
 
 ---
